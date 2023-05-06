@@ -1,0 +1,26 @@
+.praducts{
+  display: grid;
+  grid-template-columns: repeat(4, 300px);
+  gap: 20px;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.praducts__box{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 15px 0;
+  width: 150px;
+  color: #000;
+ 
+}
+.images{
+  max-width: 300px;
+  height: 300px;
+  border-radius: 15% 15% 15% 5%;
+}
+
+h3 {
+font-size: 22px;
+}

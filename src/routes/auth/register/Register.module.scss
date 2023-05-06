@@ -1,0 +1,40 @@
+.register__container{
+  width: 500px;
+    height: 400px;
+    margin: auto;
+    border: 1px solid #f2f6e3;
+    margin-top: 60px;
+    background-color: #f2f6e3;
+    border-radius: 15px;
+}
+
+.register__form{
+  width: 300px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px 0;
+  margin-top: 40px;
+  
+  
+}
+.register__inp{
+  padding: 12px 30px;
+  border-radius: 15px;
+  border: none;
+  background-color: #F7F7F7;
+}
+.register__btn{
+  background: #C7C7C7;
+  border: 1px solid #C7C7C7;
+  border-radius: 24px;
+  font-family: sans-serif;
+  font-size: 18px;
+  padding: 12px;
+  transition: 0.5s;
+  margin-left: 50px;
+}
+.register__btn:hover{
+  background-color: #eaefdf;
+  
+}

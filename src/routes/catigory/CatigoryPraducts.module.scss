@@ -1,0 +1,19 @@
+
+.category__div{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px 20px;
+    padding: 0 100px ;
+    margin: auto;
+    width: 1200px;
+}
+.category__img{
+    width: 350px;
+    height: 350px;
+    border-radius: 15% 15% 15% 5%;
+    margin-bottom: 15px;
+}
+.cat__praduct__text{
+    width: 300px;
+    margin-top: 20px;
+}

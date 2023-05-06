@@ -1,0 +1,23 @@
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 9px;
+  margin-bottom: 16px;
+}
+
+.navbar__boxlink{
+  display: flex;
+}
+.navbar__text{
+  margin-right: 21px;
+}
+
+.navbar__list{
+  display: flex;
+  align-items: center;
+}
+.navbar__icon{
+  margin-left: 10px;
+  font-size: 22px;
+}
